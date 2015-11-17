@@ -1,0 +1,15 @@
+struktur
+	mapp
+		src
+		classes
+
+kommandon
+javac -d classes src\*.java	- kompilera klassfilerna
+
+jar -cvfe foo.jar SpamWindow -C classes\ .	- skapa jar
+
+
+
+Med ant samma struktur
+
+ant kommando(target name)	-köra ett ant kommando

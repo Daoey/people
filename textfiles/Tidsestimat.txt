@@ -1,0 +1,11 @@
+Tidsestimat 11/3 - 2015
+
+2.1. Ta bort kolumnerna "First name" och "Last name" och lägg till "Full name" istället.
+2.2. Ändra bakgrund färg till grön och vit.
+2.3. Documentera med javadoc och skapa ett ant script för att "bygga" en jar fil.
+
+2.1.- 2 timmar
+2.2. - 1 timme
+2.3 -7 timmar
+
+Sammanlagt tid 10 timmar

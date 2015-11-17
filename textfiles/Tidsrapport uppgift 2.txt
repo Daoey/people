@@ -1,0 +1,16 @@
+3.1 Visa kolumnerna "First name" och "Last name". 
+3.2 Ta bort kolumnen Gender och läs in "Pet animal" istället från ny fil.
+3.3 Ändra till röd och vit applikation.
+3.4 Ändra så att alla knappar ligger på en rad under tabellen.
+3.5 Documentera med javadoc och skapa ett ant script för att "bygga" en jar fil.
+
+Uppskattning		|	Tidsrapport
+					|	
+3.1 - 1 timme		|	15 min
+3.2 - 5 timmar		|	30 min
+3.3 - 10 min		|	10 min
+3.4 - 5 timmar		|	30 min
+3.5 - 1 timme		|	3 tim
+
+Kommentar:
+De flesta uppgifterna gick snabbt och bra. Fick problem med genereringen av javadocs. Var tvungen att uppdatera mitt build script på grund av ändrad filstruktur.

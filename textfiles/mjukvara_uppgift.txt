@@ -1,0 +1,20 @@
+Producera och leverera mjukvara
+Uppgift 1 
+
+Att lämna in:
+A: Tidsestimat
+B: Dokumentering av krav/önskemål.
+C. Dokumentering av applikation, text dokument och javadoc
+D. Applikation jar fil
+
+Det vi har idag:
+1. En applikation som läser in en fil med kommaseparerade värden.
+2. Visar alla rader och kolumnerna "First name", "Last name", "Age", "Gender", "Email"
+3. Kan sortera på valfri kolumn
+4. Kan filtrera rader så att endast personer över 18 år visas.
+5. Kan filtrera rader så att endast kvinnor eller män visas.
+
+Det vi vill ha nästa version:
+2.1. Ta bort kolumnerna "First name" och "Last name" och lägg till "Full name" istället.
+2.2. Ändra bakgrund färg till grön och vit.
+2.3. Documentera med javadoc och skapa ett ant script för att "bygga" en jar fil.
